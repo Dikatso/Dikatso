@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently completing my degree.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn even more technologies.
-- ⚡ Fun fact: Gaming Gaming Gaming 🎱.
+- ⚡ Fun fact: This user loves gaming 🎱.
 
 
 
