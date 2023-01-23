@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Computer Engineering Student  
+## I'm a Computer Science and Computer Engineering Graduand  
 
-- 👨‍💻 I’m currently completing my degree.
+- 👨‍💻 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn even more technologies.
 - ⚡ Fun fact: This user loves gaming 🎱.
