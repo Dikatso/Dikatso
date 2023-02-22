@@ -4,9 +4,7 @@
 
 ## I'm a Computer Science and Computer Engineering Graduand  
 
-- 👨‍💻 
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn even more technologies.
+- 📚 I’m currently learning Frontend technologies 😅
 - ⚡ Fun fact: This user loves gaming 🎱.
 
 
