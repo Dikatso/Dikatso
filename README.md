@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science and Computer Engineering Graduand  
 
-- 📚 I’m currently learning Frontend technologies 😅
+- 📚 I’m currently learning OTP 😅
 - ⚡ Fun fact: This user loves gaming 🎱.
 
 
